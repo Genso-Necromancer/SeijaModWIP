@@ -55,6 +55,9 @@ effect: .name "sdtTurnAboutAccDebuff5" .target "target" .chance 140% .duration 3
 
 //dreambow
 
+//TTs
+effect: .name "DB Undone TT" .target "performer" .skill_instant true .buff_ids "DB_Undone_TT" .on_hit false .on_miss false .apply_once true
+
 //reverseHeirarchy
 effect: .name "sdtPartyFlip" .target "target" .chance 100% .pull 3 .on_hit true .on_miss false .can_apply_on_death true .has_description false
 
@@ -67,11 +70,7 @@ effect: .name "sdtPartyDodge5" .target "target" .chance 100% .duration 3 .buff_i
 effect: .name "RH Party Flip TT" .target "performer" .skill_instant true .buff_ids "RH_Flip_TT" .on_hit false .on_miss false .apply_once true
 
 
-//dream bow
 
-
-//TTs
-effect: .name "DB Undone TT" .target "performer" .skill_instant true .buff_ids "DB_Undone_TT" .on_hit false .on_miss false .apply_once true
 
 //Shared
 
