@@ -1,0 +1,36 @@
+{
+   "buffs":
+   [
+        
+	 {
+         "id" : "RH_Flip_TT",
+         "stat_type" : "upgrade_discount",
+         "stat_sub_type" : "rhFlipTT",
+         "amount" : 1,
+         "remove_if_not_active" : false,
+         "rule_type" : "always",
+         "is_false_rule" : false,
+         "rule_data" : {
+            "float" : 0,
+            "string" : ""
+         },
+		 "has_description": true
+     },
+	 {
+         "id" : "DB_Undone_TT",
+         "stat_type" : "upgrade_discount",
+         "stat_sub_type" : "dbUndoneTT",
+         "amount" : 1,
+         "remove_if_not_active" : false,
+         "rule_type" : "always",
+         "is_false_rule" : false,
+         "rule_data" : {
+            "float" : 0,
+            "string" : ""
+         },
+		 "has_description": true
+     }
+	  
+	  
+   ]
+}  

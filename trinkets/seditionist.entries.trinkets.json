@@ -1,0 +1,22 @@
+{
+   "entries":
+   [
+      {
+         "id" : "seditionist_imitation_hammer",
+         "buffs" : 
+         [
+            
+         ],
+         "hero_class_requirements":
+         [
+            "seditionist"
+         ],
+         "rarity" : "common",
+         "price" : 7500,
+         "limit" : 0,
+         "origin_dungeon" : ""
+	  }
+	
+
+   ]
+}

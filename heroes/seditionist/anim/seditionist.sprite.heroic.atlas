@@ -1,0 +1,27 @@
+
+seditionist.sprite.heroic.png
+size: 1731,1135
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 2, 2
+  size: 1308, 1131
+  orig: 1308, 1131
+  offset: 0, 0
+  index: -1
+seija gremlin
+  rotate: false
+  xy: 1312, 693
+  size: 417, 440
+  orig: 417, 440
+  offset: 0, 0
+  index: -1
+stress
+  rotate: false
+  xy: 1312, 360
+  size: 311, 331
+  orig: 311, 331
+  offset: 0, 0
+  index: -1

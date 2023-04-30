@@ -1,0 +1,58 @@
+{
+	"configuration" : 
+	{
+        "class_specific_number_of_classes_threshold" :  4
+	},
+
+	"skills" :
+	[
+
+
+		{ 
+			"id" : "sdtReverseTrigger",
+			"level" : 0,
+			"cost" : 2,
+			"use_limit" : 1,
+			"effects" :
+			[
+				{
+					"selection" : "individual",
+					"requirements" : ["afflicted"],
+					"chance" : { "code" : "a", "amount": 1.0 },
+					"type": "stress_heal_amount",
+					"sub_type" : "",
+					"amount" :  -35
+				},
+				{
+					"selection" : "individual",
+					"requirements" : [],
+					"chance" : { "code" : "a", "amount": 1.0 },
+					"type": "buff",
+					"sub_type" : "sdt_RH_Dodge_Buff_1",
+					"amount" :  0.15
+				}
+
+			],
+			"hero_classes" : ["seditionist"],
+			"upgrade_requirements" :  	
+			[
+				{
+					"code" : "0",
+					"currency_cost" :			
+					[
+						{ "type" : "gold", "amount" : 1750 }
+					],
+					"prerequisite_requirements" :
+					[
+						
+					]
+				}
+			] 
+		}
+
+
+
+	]
+
+
+}

@@ -1,0 +1,20 @@
+
+seditionist.sprite.walk.png
+size: 508,421
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+seija gremlin
+  rotate: true
+  xy: 2, 2
+  size: 417, 440
+  orig: 417, 440
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 444, 62
+  size: 357, 62
+  orig: 357, 62
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+    <language id="english">
+		<entry id="hero_class_name_seditionist"><![CDATA[Seditionist]]></entry>
+		<entry id="action_verbose_body_blacksmith_seditionist"><![CDATA[]]></entry>
+
+		<entry id="action_verbose_body_guild_seditionist"><![CDATA[]]></entry>
+
+
+		<entry id="action_verbose_body_camping_trainer_seditionist"><![CDATA[]]></entry>
+
+<!-- -->
+		<!-- Skills -->
+
+		<entry id="combat_skill_name_seditionist_airBrave"><![CDATA[Air Brave]]></entry>
+		<entry id="combat_skill_name_seditionist_thisSideDown"><![CDATA[This Side Down]]></entry>
+    	<entry id="combat_skill_name_seditionist_lookingGlass"><![CDATA[Through The Looking Glass]]></entry>
+    	<entry id="combat_skill_name_seditionist_overTurningHeaven"><![CDATA[Overturning Heaven]]></entry>
+    	<entry id="combat_skill_name_seditionist_turnAbout"><![CDATA[Turn About]]></entry>
+    	<entry id="combat_skill_name_seditionist_dreamBow"><![CDATA[Dream Bow]]></entry>
+		<entry id="combat_skill_name_seditionist_reverseHeirarchy"><![CDATA[Reverse Heirarchy]]></entry>
+    	<entry id="combat_skill_name_seditionist_move"><![CDATA[]]></entry>
+   		<entry id="upgrade_tree_name_seditionist.airBrave"><![CDATA[Air Brave]]></entry>
+		<entry id="upgrade_tree_name_seditionist.thisSideDown"><![CDATA[This Side Down]]></entry>
+    	<entry id="upgrade_tree_name_seditionist.lookingGlass"><![CDATA[Through The Looking Glass]]></entry>
+    	<entry id="upgrade_tree_name_seditionist.overTurningHeaven"><![CDATA[Overturning Heaven]]></entry>
+    	<entry id="upgrade_tree_name_seditionist.turnAbout"><![CDATA[Turn About]]></entry>
+    	<entry id="upgrade_tree_name_seditionist.dreamBow"><![CDATA[Dream Bow]]></entry>
+    	<entry id="upgrade_tree_name_seditionist.reverseHeirarchy"><![CDATA[Reverse Heirarchy]]></entry>
+			
+		<entry id="camping_skill_name_sdtReverseTrigger"><![CDATA[REVERSE TRIGGER]]></entry>
+
+
+		
+		<!-- Equipment -->
+
+		<entry id="seditionist_weapon_0"><![CDATA[Shank 1]]></entry>
+		<entry id="seditionist_weapon_1"><![CDATA[Shank 2]]></entry>
+    	<entry id="seditionist_weapon_2"><![CDATA[Shank 3]]></entry>
+    	<entry id="seditionist_weapon_3"><![CDATA[Shank 4]]></entry>
+    	<entry id="seditionist_weapon_4"><![CDATA["Rebellion"]]></entry>
+    	<entry id="upgrade_tree_name_seditionist.weapon"><![CDATA[Shank]]></entry>
+    	<entry id="seditionist_armour_0"><![CDATA[Dress 1]]></entry>
+    	<entry id="seditionist_armour_1"><![CDATA[Dress 2]]></entry> 
+    	<entry id="seditionist_armour_2"><![CDATA[Dress 3]]></entry>
+    	<entry id="seditionist_armour_3"><![CDATA[Dress 4]]></entry>
+    	<entry id="seditionist_armour_4"><![CDATA["Reverse Ideology"]]></entry>
+    	<entry id="upgrade_tree_name_seditionist.armour"><![CDATA[Rebel's Shroud]]></entry>
+		
+		<!-- Tool Tips -->
+		
+			<!-- Mechanic -->
+				<!-- Through The Looking Glass -->
+		
+		
+		
+			<!-- O SPACE CHARACTERS & MODES -->
+		<entry id="buff_rule_data_tooltip_sdt_mode"><![CDATA[]]></entry>
+		
+
+			<!-- Names -->
+		
+			<!-- Skill Mechanics -->
+			<entry id="buff_stat_tooltip_upgrade_discount_rhFlipTT"><![CDATA[{colour_start|move}Reverse{colour_end} order of Party]]></entry>
+			<entry id="buff_stat_tooltip_upgrade_discount_rhUndoneTT"><![CDATA[I'm not a finished skill!!!!!!!!!]]></entry>
+
+			
+			
+		<!-- Events -->
+		
+		
+		
+		
+		
+<!-- Barks -->
+			<!-- COME FORTH -->
+		<entry id="str_ui_actor_dot_complete"><![CDATA[]]></entry>
+ 
+			<!-- Camping Skills -->
+		<entry id="seditionist+str_bark_ppt_blankcamp"><![CDATA[]]></entry>
+		<entry id="seditionist+str_bark_ppt_blankcamp"><![CDATA[]]></entry>
+		<entry id="seditionist+str_bark_ppt_blankcamp"><![CDATA[]]></entry>
+
+ 
+		<entry id="seditionist+str_bark_first_aid"><![CDATA[]]></entry>
+		<entry id="seditionist+str_bark_encourage"><![CDATA[]]></entry>
+		<entry id="seditionist+str_bark_pep_talk"><![CDATA[]]></entry>
+ 
+			<!-- Roster -->
+		<entry id="seditionist+str_stagecoach_idle"><![CDATA[]]></entry>	
+ 
+ 
+	<!-- Miscellaneous Barks -->
+	
+		<!-- seditionist Limit --> 
+	<entry id="str_incompatible_party_member_seditionist_limit"><![CDATA[]]></entry>
+	<entry id="str_incompatible_party_member_seditionist_limit"><![CDATA[]]></entry>
+	<entry id="str_incompatible_party_member_seditionist_limit"><![CDATA[]]></entry>
+	<entry id="str_incompatible_party_member_seditionist_limit"><![CDATA[]]></entry>
+ 
+		<!-- Crit Barks -->
+ 
+	<entry id="seditionist+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="seditionist+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="seditionist+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="seditionist+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="seditionist+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="seditionist+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="seditionist+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="seditionist+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="seditionist+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="seditionist+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="seditionist+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="seditionist+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="seditionist+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="seditionist+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="seditionist+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="seditionist+str_critbyhero"><![CDATA[]]></entry>
+ 
+	<!-- Boss Barks -->
+ 
+	<entry id="seditionist+str_monster_attack_unholy_smite"><![CDATA[]]></entry>
+	<entry id="seditionist+str_monster_attack_unholy_judgement"><![CDATA[]]></entry>
+	<entry id="seditionist+str_monster_attack_unholy_curse"><![CDATA[]]></entry>
+	<entry id="seditionist+str_control_before_turn_siren"><![CDATA[]]></entry>	
+    <entry id="seditionist+str_control_before_turn_siren"><![CDATA[]]></entry>
+    <entry id="seditionist+str_control_before_turn_siren"><![CDATA[]]></entry>	
+    <entry id="seditionist+str_control_return_siren"><![CDATA[]]></entry>	
+    <entry id="seditionist+str_control_return_siren"><![CDATA[]]></entry>	
+    <entry id="seditionist+str_control_return_siren"><![CDATA[]]></entry>	
+	<entry id="seditionist+str_monster_attack_prophet_mark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_monster_attack_prophet_mark"><![CDATA[]]></entry>
+	<entry id="seditionist+str_monster_attack_prophet_mark"><![CDATA[]]></entry>
+ 
+	<!-- Moving -->
+    <entry id="seditionist+str_bark_stopmoving"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_stopmoving"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_startmoving"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_startmoving"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_startmoving"><![CDATA[]]></entry>
+ 
+	<!-- Light -->
+	<entry id="seditionist+str_bark_torch_0"><![CDATA[]]></entry>
+	<entry id="seditionist+str_bark_torch_0"><![CDATA[]]></entry>
+	<entry id="seditionist+str_bark_torch_0"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_torch_1"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_torch_1"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_torch_1"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_torch_2"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_torch_2"><![CDATA[]]></entry>
+	<entry id="seditionist+str_bark_torch_2"><![CDATA[]]></entry>
+ 
+	<!-- Taking Damage/DoTs -->
+	<entry id="seditionist+str_bark_stressdot"><![CDATA[]]></entry>
+	<entry id="seditionist+str_bark_bigwound"><![CDATA[]]></entry>
+	<entry id="seditionist+str_bark_bigwound"><![CDATA[]]></entry>
+	<entry id="seditionist+str_bark_bigwound"><![CDATA[]]></entry>
+	<entry id="seditionist+str_bark_bigwound"><![CDATA[]]></entry>
+	<entry id="seditionist+str_bark_bigwound"><![CDATA[]]></entry>
+	<entry id="seditionist+str_bark_bleeddot"><![CDATA[]]></entry>
+	<entry id="seditionist+str_bark_bleeddot"><![CDATA[]]></entry>
+	<entry id="seditionist+str_bark_bleeddot"><![CDATA[]]></entry>
+	<entry id="seditionist+str_bark_poisondot"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_poisondot"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_poisondot"><![CDATA[]]></entry>
+	<entry id="seditionist+str_bark_bigwound_ally"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_bigwound_ally"><![CDATA[]]></entry>
+ 
+	<!-- Heart Attacks --> 
+	<entry id="seditionist+str_heart_attack"><![CDATA[]]></entry>
+    <entry id="seditionist+str_heart_attack_fearful"><![CDATA[]]></entry>
+    <entry id="seditionist+str_heart_attack_paranoid"><![CDATA[]]></entry>
+    <entry id="seditionist+str_heart_attack_masochistic"><![CDATA[]]></entry>
+    <entry id="seditionist+str_heart_attack_abusive"><![CDATA[]]></entry>
+    <entry id="seditionist+str_heart_attack_selfish"><![CDATA[]]></entry>
+    <entry id="seditionist+str_heart_attack_depressed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_heart_attack_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Death's Door -->
+	<entry id="seditionist+str_bark_deathsdoor"><![CDATA[]]></entry>
+	<entry id="seditionist+str_bark_deathsdoor"><![CDATA[]]></entry>
+	<entry id="seditionist+str_bark_deathsdoor"><![CDATA[]]></entry>
+	<entry id="seditionist+str_bark_deathsdoorsurvive"><![CDATA[]]></entry>
+	<entry id="seditionist+str_bark_deathsdoorsurvive"><![CDATA[]]></entry>
+	<entry id="seditionist+str_bark_deathsdoorsurvive"><![CDATA[]]></entry>
+	<entry id="seditionist+str_bark_deathsdoorsurvive_ally"><![CDATA[]]></entry>
+	<entry id="seditionist+str_bark_deathsdoorsurvive_ally"><![CDATA[]]></entry>
+ 
+	<!-- Stress -->
+	<entry id="seditionist+str_bark_increasingstress"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_increasingstress"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_increasingstress"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_increasingstress"><![CDATA[]]></entry>
+	<entry id="seditionist+str_bark_increasingstress"><![CDATA[]]></entry>
+ 
+	<!-- Skill Barks -->
+		<!--Blanks, Intentional -->
+	<entry id="str_lookingGlass"><![CDATA[]]></entry>
+	<entry id="str_lookingGlass_react"><![CDATA[]]></entry>
+
+
+	
+		<!-- seditionist's Chuuni Bullshit -->
+	<entry id="seditionist+str_lookingGlass"><![CDATA[]]></entry>
+	<entry id="seditionist+str_lookingGlass"><![CDATA[]]></entry>
+	<entry id="seditionist+str_lookingGlass"><![CDATA[]]></entry>
+	<entry id="seditionist+str_lookingGlass"><![CDATA[]]></entry>
+	<entry id="seditionist+str_lookingGlass"><![CDATA[]]></entry>
+		<!-- seditionist's Reactions -->
+			<!--Miko-->
+	<entry id="seditionist+str_miko_spellcard_react"><![CDATA[]]></entry>
+	<entry id="seditionist+str_miko_spellcard_react"><![CDATA[]]></entry>
+	<entry id="seditionist+str_miko_spellcard_react"><![CDATA[]]></entry>
+	<entry id="seditionist+str_miko_spellcard_react"><![CDATA[]]></entry>
+	<entry id="seditionist+str_miko_spellcard_react"><![CDATA[]]></entry>
+			<!--Maid-->
+	<entry id="seditionist+str_the_world_react"><![CDATA[]]></entry>
+	<entry id="seditionist+str_the_world_react"><![CDATA[]]></entry>
+	<entry id="seditionist+str_the_world_react"><![CDATA[]]></entry>
+	<entry id="seditionist+str_the_world_react"><![CDATA[]]></entry>
+	<entry id="seditionist+str_the_world_react"><![CDATA[]]></entry>
+			<!--Celestial-->
+	<entry id="seditionist+str_tenshi_earthquake_spellcard_react"><![CDATA[]]></entry>
+	<entry id="seditionist+str_tenshi_earthquake_spellcard_react"><![CDATA[]]></entry>
+	<entry id="seditionist+str_tenshi_earthquake_spellcard_react"><![CDATA[]]></entry>
+	<entry id="seditionist+str_tenshi_earthquake_spellcard_react"><![CDATA[]]></entry>
+	<entry id="seditionist+str_tenshi_earthquake_spellcard_react"><![CDATA[]]></entry>
+			<!--Magician-->
+	<entry id="seditionist+str_master_spark_react"><![CDATA[]]></entry>
+	<entry id="seditionist+str_master_spark_react"><![CDATA[]]></entry>
+	<entry id="seditionist+str_master_spark_react"><![CDATA[]]></entry>
+	<entry id="seditionist+str_master_spark_react"><![CDATA[]]></entry>
+	<entry id="seditionist+str_master_spark_react"><![CDATA[]]></entry>
+ 
+	<!-- Activities -->
+	<entry id="seditionist+str_bar_committed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bar_committed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bar_committed"><![CDATA[]]></entry>
+	<entry id="seditionist+str_brothel_committed"><![CDATA[]]></entry>
+	<entry id="seditionist+str_brothel_committed"><![CDATA[]]></entry>
+	<entry id="seditionist+str_brothel_committed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_gambling_committed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_gambling_committed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_gambling_committed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_meditation_committed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_meditation_committed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_meditation_committed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_flagellation_committed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_flagellation_committed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_flagellation_committed"><![CDATA[]]></entry>
+	<entry id="seditionist+str_prayer_committed"><![CDATA[]]></entry>
+	<entry id="seditionist+str_prayer_committed"><![CDATA[]]></entry>
+	<entry id="seditionist+str_prayer_committed"><![CDATA[]]></entry>
+ 
+	<!-- Roster -->
+	<entry id="seditionist+str_roster_list_low_stress_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_low_stress_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_low_stress_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_medium_stress_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_medium_stress_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_medium_stress_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_high_stress_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_high_stress_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_high_stress_bark"><![CDATA[]]></entry>
+	
+    <entry id="seditionist+str_roster_list_fearful_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_fearful_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_paranoid_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_paranoid_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_depressed_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_depressed_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_selfish_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_selfish_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_abusive_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_abusive_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_masochistic_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_masochistic_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_irrational_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_irrational_bark"><![CDATA[]]></entry>
+	
+    <entry id="seditionist+str_roster_list_bar_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_bar_bark"><![CDATA[]]></entry>
+	<entry id="seditionist+str_roster_list_brothel_bark"><![CDATA[]]></entry>
+	<entry id="seditionist+str_roster_list_brothel_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_gambling_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_gambling_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_meditation_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_meditation_bark"><![CDATA[]]></entry>
+	<entry id="seditionist+str_roster_list_prayer_bark"><![CDATA[]]></entry>
+	<entry id="seditionist+str_roster_list_prayer_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_flagellation_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_flagellation_bark"><![CDATA[]]></entry>
+	<entry id="seditionist+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[]]></entry>
+ 
+ 
+ 
+	<!-- Afflictions -->
+	<!-- Abusive -->
+ 
+    <entry id="seditionist+str_afflicted_abusive"><![CDATA[]]></entry>
+	<entry id="seditionist+str_afflicted_abusive"><![CDATA[]]></entry>
+	<entry id="seditionist+str_afflicted_abusive"><![CDATA[]]></entry>
+	<entry id="seditionist+str_afflicted_abusive"><![CDATA[]]></entry>
+	<entry id="seditionist+str_afflicted_abusive"><![CDATA[]]></entry>
+ 
+	<!-- Abusive: Stress -->
+ 
+    <entry id="seditionist+str_bark_stress_abusive"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_stress_abusive"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_stress_abusive"><![CDATA[]]></entry>
+ 
+	<!-- Abusive: Random -->
+ 
+    <entry id="seditionist+str_random_command_abusive"><![CDATA[]]></entry>
+    <entry id="seditionist+str_random_command_abusive"><![CDATA[]]></entry>
+    <entry id="seditionist+str_random_command_abusive"><![CDATA[]]></entry>
+ 
+	<!-- Abusive: Friendly Fire -->
+ 
+    <entry id="seditionist+str_attack_friendly_abusive"><![CDATA[]]></entry>
+ 
+	<!-- Abusive: Camp Stress -->
+ 
+    <entry id="seditionist+str_bark_stress_camp_abusive"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_stress_camp_abusive"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_stress_camp_abusive"><![CDATA[]]></entry>
+ 
+	<!-- Abusive: Ally Attack Hit -->
+ 
+    <entry id="seditionist+str_comment_ally_attack_hit_abusive"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_ally_attack_hit_abusive"><![CDATA[]]></entry>
+ 
+	<!-- Abusive: Ally Attack Missed -->
+ 
+    <entry id="seditionist+str_comment_ally_attack_missed_abusive"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_ally_attack_missed_abusive"><![CDATA[]]></entry>
+ 
+	<!-- Abusive: Ally Hit -->
+ 
+    <entry id="seditionist+str_comment_ally_hit_abusive"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_ally_hit_abusive"><![CDATA[]]></entry>
+ 
+	<!-- Abusive: Block Move -->
+ 
+    <entry id="seditionist+str_block_move_abusive"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_move_abusive"><![CDATA[]]></entry>
+ 
+	<!-- Abusive: Block Camping Skill Performer -->
+ 
+    <entry id="seditionist+str_block_camping_skill_performer_abusive"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_camping_skill_performer_abusive"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_camping_skill_performer_abusive"><![CDATA[]]></entry>
+ 
+	<!-- Abusive: Block Camping Skill -->
+ 
+    <entry id="seditionist+str_block_camping_skill_target_abusive"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_camping_skill_target_abusive"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_camping_skill_target_abusive"><![CDATA[]]></entry>
+ 
+	<!-- Depressed -->
+ 
+    <entry id="seditionist+str_afflicted_depressed"><![CDATA[]]></entry>
+	<entry id="seditionist+str_afflicted_depressed"><![CDATA[]]></entry>
+	<entry id="seditionist+str_afflicted_depressed"><![CDATA[]]></entry>
+	<entry id="seditionist+str_afflicted_depressed"><![CDATA[]]></entry>
+	<entry id="seditionist+str_afflicted_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Stress -->
+ 
+    <entry id="seditionist+str_bark_stress_depressed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_stress_depressed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_stress_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Move Forward -->
+ 
+    <entry id="seditionist+str_change_pos_fwd_depressed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_change_pos_fwd_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Move Back -->
+ 
+    <entry id="seditionist+str_change_pos_back_depressed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_change_pos_back_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Ignore -->
+ 
+    <entry id="seditionist+str_ignore_command_depressed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_ignore_command_depressed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_ignore_command_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Block Meal -->
+ 
+    <entry id="seditionist+str_block_camping_meal_depressed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_camping_meal_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Random -->
+ 
+    <entry id="seditionist+str_random_command_depressed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_random_command_depressed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_random_command_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Camp Stress -->
+ 
+    <entry id="seditionist+str_bark_stress_camp_depressed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_stress_camp_depressed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_stress_camp_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Mark Self -->
+ 
+    <entry id="seditionist+str_mark_self_depressed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_mark_self_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Attack Self -->
+ 
+    <entry id="seditionist+str_attack_self_depressed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_attack_self_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Block Retreat -->
+ 
+    <entry id="seditionist+str_block_combat_retreat_depressed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_combat_retreat_depressed"><![CDATA[]]></entry>
+ 
+		<!-- Depressed: Block Item -->
+ 
+    <entry id="seditionist+str_block_item_depressed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_item_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Block Heal -->
+ 
+    <entry id="seditionist+str_block_heal_depressed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_heal_depressed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_heal_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Block Camping Skill Performer -->
+ 
+    <entry id="seditionist+str_block_camping_skill_performer_depressed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_camping_skill_performer_depressed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_camping_skill_performer_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Block Camping Skill -->
+ 
+    <entry id="seditionist+str_block_camping_skill_target_depressed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_camping_skill_target_depressed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_camping_skill_target_depressed"><![CDATA[]]></entry>
+ 
+		<!-- Depressed: Block Buff -->
+ 
+    <entry id="seditionist+str_block_buff_depressed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_buff_depressed"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_buff_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Fearful -->
+ 
+	<entry id="seditionist+str_afflicted_fearful"><![CDATA[]]></entry>
+	<entry id="seditionist+str_afflicted_fearful"><![CDATA[]]></entry>
+	<entry id="seditionist+str_afflicted_fearful"><![CDATA[]]></entry>
+	<entry id="seditionist+str_afflicted_fearful"><![CDATA[]]></entry>
+ 
+	<!-- Fearful: Move Back -->
+ 
+    <entry id="seditionist+str_change_pos_back_fearful"><![CDATA[]]></entry>
+    <entry id="seditionist+str_change_pos_back_fearful"><![CDATA[]]></entry>
+    <entry id="seditionist+str_change_pos_back_fearful"><![CDATA[]]></entry>
+ 
+	<!-- Fearful: stress -->
+    <entry id="seditionist+str_bark_stress_fearful"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_stress_fearful"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_stress_fearful"><![CDATA[]]></entry>
+ 
+	<!-- Fear: Ignore -->
+ 
+    <entry id="seditionist+str_ignore_command_fearful"><![CDATA[]]></entry>
+    <entry id="seditionist+str_ignore_command_fearful"><![CDATA[]]></entry>
+ 
+	<!-- Fearful: Camp Stress -->
+ 
+    <entry id="seditionist+str_bark_stress_camp_fearful"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_stress_camp_fearful"><![CDATA[]]></entry>
+ 
+ 
+	<!-- Fearful: Self Hit -->
+ 
+    <entry id="seditionist+str_comment_self_hit_fearful"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_self_hit_fearful"><![CDATA[]]></entry>
+ 
+	<!-- Fearful: Self Missed -->
+ 
+    <entry id="seditionist+str_comment_self_missed_fearful"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_self_missed_fearful"><![CDATA[]]></entry>
+ 
+	<!-- Fearful: Ally Attack Missed -->
+ 
+    <entry id="seditionist+str_comment_ally_attack_missed_fearful"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_ally_attack_missed_fearful"><![CDATA[]]></entry>
+ 
+	<!-- Fearful: Ally Hit -->
+ 
+    <entry id="seditionist+str_comment_ally_hit_fearful"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_ally_hit_fearful"><![CDATA[]]></entry>
+ 
+	<!-- Fearful: Ally Missed -->
+ 
+    <entry id="seditionist+str_comment_ally_missed_fearful"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_ally_missed_fearful"><![CDATA[]]></entry>
+ 
+ 
+ 
+	<!-- Fearful: Block Move -->
+ 
+    <entry id="seditionist+str_block_move_fearful"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_move_fearful"><![CDATA[]]></entry>
+ 
+	<!-- Fearful: Block Camping Skill Performer -->
+ 
+    <entry id="seditionist+str_block_camping_skill_performer_fearful"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_camping_skill_performer_fearful"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_camping_skill_performer_fearful"><![CDATA[]]></entry>
+ 
+	<!-- Irrational -->
+ 
+    <entry id="seditionist+str_afflicted_irrational"><![CDATA[]]></entry>
+	<entry id="seditionist+str_afflicted_irrational"><![CDATA[]]></entry>
+	<entry id="seditionist+str_afflicted_irrational"><![CDATA[]]></entry>
+	<entry id="seditionist+str_afflicted_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Move Forward -->
+ 
+    <entry id="seditionist+str_change_pos_fwd_irrational"><![CDATA[]]></entry>
+    <entry id="seditionist+str_change_pos_fwd_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Move Back -->
+ 
+    <entry id="seditionist+str_change_pos_back_irrational"><![CDATA[]]></entry>
+    <entry id="seditionist+str_change_pos_back_irrational"><![CDATA[]]></entry>
+	<entry id="seditionist+str_monster_user_selected_targets_kill_pill"><![CDATA[]]></entry>
+    <entry id="seditionist+str_change_pos_back_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Stress -->
+ 
+    <entry id="seditionist+str_bark_stress_irrational"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_stress_irrational"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_stress_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Ignore -->
+ 
+    <entry id="seditionist+str_ignore_command_irrational"><![CDATA[]]></entry>
+    <entry id="seditionist+str_ignore_command_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Friendly fire -->
+ 
+    <entry id="seditionist+str_attack_friendly_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Block Meal -->
+ 
+    <entry id="seditionist+str_block_camping_meal_irrational"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_camping_meal_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Random -->
+ 
+    <entry id="seditionist+str_random_command_irrational"><![CDATA[]]></entry>
+    <entry id="seditionist+str_random_command_irrational"><![CDATA[]]></entry>
+    <entry id="seditionist+str_random_command_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Camp Stress -->
+ 
+    <entry id="seditionist+str_bark_stress_camp_irrational"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_stress_camp_irrational"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_stress_camp_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Mark Self -->
+ 
+    <entry id="seditionist+str_mark_self_irrational"><![CDATA[]]></entry>
+    <entry id="seditionist+str_mark_self_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Missed Self -->
+ 
+    <entry id="seditionist+str_comment_self_missed_irrational"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_self_missed_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Ally Attack Hit -->
+ 
+    <entry id="seditionist+str_comment_ally_attack_hit_irrational"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_ally_attack_hit_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Ally Attack Missed -->
+ 
+    <entry id="seditionist+str_comment_ally_attack_missed_irrational"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_ally_attack_missed_irrational"><![CDATA[]]></entry>	
+ 
+	<!-- Irrational: Ally Missed -->
+ 
+    <entry id="seditionist+str_comment_ally_missed_irrational"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_ally_missed_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Block Move -->
+ 
+    <entry id="seditionist+str_block_move_irrational"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_move_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Block Item -->
+ 
+    <entry id="seditionist+str_block_item_irrational"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_item_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Block Heal -->
+ 
+    <entry id="seditionist+str_block_heal_irrational"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_heal_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Block Buff -->
+ 
+    <entry id="seditionist+str_block_buff_irrational"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_buff_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Block Camp Skill Performer -->
+ 
+    <entry id="seditionist+str_block_camping_skill_performer_irrational"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_camping_skill_performer_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Block Camp Skill -->
+ 
+    <entry id="seditionist+str_block_camping_skill_target_irrational"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_camping_skill_target_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Attack Self -->
+ 
+    <entry id="seditionist+str_attack_self_irrational"><![CDATA[]]></entry>
+    <entry id="seditionist+str_attack_self_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Block Retreat -->
+ 
+    <entry id="seditionist+str_block_combat_retreat_irrational"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_combat_retreat_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Hit Self -->
+ 
+    <entry id="seditionist+str_comment_self_hit_irrational"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_self_hit_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Ally Hit -->
+ 
+    <entry id="seditionist+str_comment_ally_hit_irrational"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_ally_hit_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic -->
+	
+    <entry id="seditionist+str_afflicted_masochistic"><![CDATA[]]></entry>
+	<entry id="seditionist+str_afflicted_masochistic"><![CDATA[]]></entry>
+	<entry id="seditionist+str_afflicted_masochistic"><![CDATA[]]></entry>
+	<entry id="seditionist+str_afflicted_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic: Move Forward -->
+	
+    <entry id="seditionist+str_change_pos_fwd_masochistic"><![CDATA[]]></entry>
+    <entry id="seditionist+str_change_pos_fwd_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic: Stress  -->
+ 
+    <entry id="seditionist+str_bark_stress_masochistic"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_stress_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic: Random -->
+ 
+    <entry id="seditionist+str_random_command_masochistic"><![CDATA[]]></entry>
+    <entry id="seditionist+str_random_command_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic: Block Meal -->
+ 
+    <entry id="seditionist+str_block_camping_meal_masochistic"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_camping_meal_masochistic"><![CDATA[]]></entry>
+ 
+		<!-- Masochistic: Mark Self -->
+	
+    <entry id="seditionist+str_mark_self_masochistic"><![CDATA[]]></entry>
+    <entry id="seditionist+str_mark_self_masochistic"><![CDATA[]]></entry>
+
+	<!-- Masochistic: Attack Self -->
+ 
+    <entry id="seditionist+str_attack_self_masochistic"><![CDATA[]]></entry>
+    <entry id="seditionist+str_attack_self_masochistic"><![CDATA[]]></entry>
+ 
+		<!-- Masochistic: Block Retreat -->
+ 
+    <entry id="seditionist+str_block_combat_retreat_masochistic"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_combat_retreat_masochistic"><![CDATA[]]></entry>
+ 
+		<!-- Masochistic: Self Hit -->
+ 
+    <entry id="seditionist+str_comment_self_hit_masochistic"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_self_hit_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic: Self Missed -->
+ 
+    <entry id="seditionist+str_comment_self_missed_masochistic"><![CDATA[]]></entry> 
+    <entry id="seditionist+str_comment_self_missed_masochistic"><![CDATA[]]></entry>
+	
+	<!-- Masochistic: Ally Hit -->
+	
+    <entry id="seditionist+str_comment_ally_hit_masochistic"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_ally_hit_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic: Block Move -->
+	
+    <entry id="seditionist+str_block_move_masochistic"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_move_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic: Block Item -->
+ 
+    <entry id="seditionist+str_block_item_masochistic"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_item_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic: Block Heal -->
+ 
+    <entry id="seditionist+str_block_heal_masochistic"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_heal_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic: Block Buff -->
+ 
+    <entry id="seditionist+str_block_buff_masochistic"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_buff_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic: Block Camping Skill Performer -->
+ 
+    <entry id="seditionist+str_block_camping_skill_performer_masochistic"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_camping_skill_performer_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic: Block Camping Skill -->
+ 
+    <entry id="seditionist+str_block_camping_skill_target_masochistic"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_camping_skill_target_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic: Camp Stress -->
+ 
+    <entry id="seditionist+str_bark_stress_camp_masochistic"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_stress_camp_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid -->
+	
+    <entry id="seditionist+str_afflicted_paranoid"><![CDATA[]]></entry>
+	<entry id="seditionist+str_afflicted_paranoid"><![CDATA[]]></entry>
+	<entry id="seditionist+str_afflicted_paranoid"><![CDATA[]]></entry>
+	<entry id="seditionist+str_afflicted_paranoid"><![CDATA[]]></entry>
+
+ 
+	<!-- Paranoid: Move Back -->
+ 
+    <entry id="seditionist+str_change_pos_back_paranoid"><![CDATA[]]></entry>
+    <entry id="seditionist+str_change_pos_back_paranoid"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid: Stress -->
+ 
+    <entry id="seditionist+str_bark_stress_paranoid"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_stress_paranoid"><![CDATA[]]></entry>
+
+ 
+	<!-- Paranoid: Ignore -->
+ 
+    <entry id="seditionist+str_ignore_command_paranoid"><![CDATA[]]></entry>
+    <entry id="seditionist+str_ignore_command_paranoid"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid: Random -->
+ 
+    <entry id="seditionist+str_random_command_paranoid"><![CDATA[]]></entry>
+    <entry id="seditionist+str_random_command_paranoid"><![CDATA[]]></entry>
+
+ 
+	<!-- Paranoid: Friendly Fire -->
+ 
+    <entry id="seditionist+str_attack_friendly_paranoid"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid: Block Meal -->
+ 
+    <entry id="seditionist+str_block_camping_meal_paranoid"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_camping_meal_paranoid"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid: Camp Stress -->
+ 
+    <entry id="seditionist+str_bark_stress_camp_paranoid"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_stress_camp_paranoid"><![CDATA[]]></entry>
+
+ 
+	<!-- Paranoid: Self Hit -->
+ 
+    <entry id="seditionist+str_comment_self_hit_paranoid"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_self_hit_paranoid"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid: Self Missed -->
+ 
+    <entry id="seditionist+str_comment_self_missed_paranoid"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_self_missed_paranoid"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid: Ally attack Missed -->
+ 
+    <entry id="seditionist+str_comment_ally_attack_missed_paranoid"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_ally_attack_missed_paranoid"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid: Ally Hit -->
+ 
+    <entry id="seditionist+str_comment_ally_hit_paranoid"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_ally_hit_paranoid"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid: Ally Missed -->
+	
+    <entry id="seditionist+str_comment_ally_missed_paranoid"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_ally_missed_paranoid"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid: Block Move -->
+ 
+    <entry id="seditionist+str_block_move_paranoid"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_move_paranoid"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid: Block Item -->
+ 
+    <entry id="seditionist+str_block_item_paranoid"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_item_paranoid"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid: Block Heal -->
+ 
+    <entry id="seditionist+str_block_heal_paranoid"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_heal_paranoid"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid: Block Buff -->
+ 
+    <entry id="seditionist+str_block_buff_paranoid"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_buff_paranoid"><![CDATA[]]></entry>
+ 
+		<!-- Paranoid: Block Camping Skill Performer -->
+ 
+    <entry id="seditionist+str_block_camping_skill_performer_paranoid"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_camping_skill_performer_paranoid"><![CDATA[]]></entry>
+ 
+		<!-- Paranoid: Block Camping Skill Target -->
+ 
+    <entry id="seditionist+str_block_camping_skill_target_paranoid"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_camping_skill_target_paranoid"><![CDATA[]]></entry>
+
+		<!-- Paranoid: Block Retreat -->
+ 
+    <entry id="seditionist+str_block_combat_retreat_paranoid"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_combat_retreat_paranoid"><![CDATA[]]></entry>
+ 
+		<!-- Selfish -->
+	
+    <entry id="seditionist+str_afflicted_selfish"><![CDATA[]]></entry>
+	<entry id="seditionist+str_afflicted_selfish"><![CDATA[]]></entry>
+	<entry id="seditionist+str_afflicted_selfish"><![CDATA[]]></entry>
+	<entry id="seditionist+str_afflicted_selfish"><![CDATA[]]></entry>
+
+ 
+		<!-- Selfish: Stress -->
+ 
+    <entry id="seditionist+str_bark_stress_selfish"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_stress_selfish"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_stress_selfish"><![CDATA[]]></entry>
+ 
+		<!-- Selfish: Move Forward -->
+ 
+    <entry id="seditionist+str_change_pos_fwd_selfish"><![CDATA[]]></entry>
+    <entry id="seditionist+str_change_pos_fwd_selfish"><![CDATA[]]></entry>
+ 
+		<!-- Selfish: Move Back -->
+ 
+    <entry id="seditionist+str_change_pos_back_selfish"><![CDATA[]]></entry>
+    <entry id="seditionist+str_change_pos_back_selfish"><![CDATA[]]></entry>
+ 
+		<!-- Selfish: Ignore -->
+ 
+    <entry id="seditionist+str_ignore_command_selfish"><![CDATA[]]></entry>
+    <entry id="seditionist+str_ignore_command_selfish"><![CDATA[]]></entry>
+ 
+		<!-- Selfish: Random Command -->
+	
+    <entry id="seditionist+str_random_command_selfish"><![CDATA[]]></entry>
+    <entry id="seditionist+str_random_command_selfish"><![CDATA[]]></entry>
+ 
+		<!-- Selfish: Camp Stress -->
+ 
+    <entry id="seditionist+str_bark_stress_camp_selfish"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_stress_camp_selfish"><![CDATA[]]></entry>
+ 
+		<!-- Selfish: Self Hit -->
+ 
+    <entry id="seditionist+str_comment_self_hit_selfish"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_self_hit_selfish"><![CDATA[]]></entry>
+ 
+		<!-- Selfish: Ally Hit -->
+ 
+    <entry id="seditionist+str_comment_ally_attack_hit_selfish"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_ally_attack_hit_selfish"><![CDATA[]]></entry>
+ 
+		<!-- Selfish: Ally Attack Missed -->
+ 
+    <entry id="seditionist+str_comment_ally_attack_missed_selfish"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_ally_attack_missed_selfish"><![CDATA[]]></entry>
+ 
+		<!-- Selfish: Block Camping Skill Performer -->
+ 
+    <entry id="seditionist+str_block_camping_skill_performer_selfish"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_camping_skill_performer_selfish"><![CDATA[]]></entry>
+		
+		<!-- Refracted --> 
+		
+	<entry id="seditionist+str_afflicted_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Stress Camp --> 
+    <entry id="seditionist+str_bark_stress_camp_color_madness"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_stress_camp_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Bark Stress --> 
+    <entry id="seditionist+str_bark_stress_color_madness"><![CDATA[]]></entry>
+    <entry id="seditionist+str_bark_stress_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Back --> 
+    <entry id="seditionist+str_change_pos_back_color_madness"><![CDATA[]]></entry>
+    <entry id="seditionist+str_change_pos_back_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Forward --> 
+    <entry id="seditionist+str_change_pos_fwd_color_madness"><![CDATA[]]></entry>
+    <entry id="seditionist+str_change_pos_fwd_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Ignore --> 
+    <entry id="seditionist+str_ignore_command_color_madness"><![CDATA[]]></entry>
+    <entry id="seditionist+str_ignore_command_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Attack Friendly --> 
+    <entry id="seditionist+str_attack_friendly_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Attack Self --> 
+    <entry id="seditionist+str_attack_self_color_madness"><![CDATA[]]></entry>
+    <entry id="seditionist+str_attack_self_color_madness"><![CDATA[]]></entry>
+
+	
+		<!-- Refracted: Mark Self --> 
+    <entry id="seditionist+str_mark_self_color_madness"><![CDATA[]]></entry>
+    <entry id="seditionist+str_mark_self_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Self Hit --> 
+    <entry id="seditionist+str_comment_self_hit_color_madness"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_self_hit_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Ally Hit --> 
+    <entry id="seditionist+str_comment_ally_hit_color_madness"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_ally_hit_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Ally Attack Hit --> 
+    <entry id="seditionist+str_comment_ally_attack_hit_color_madness"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_ally_attack_hit_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: move --> 
+    <entry id="seditionist+str_comment_move_color_madness"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_move_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Curio --> 
+    <entry id="seditionist+str_comment_curio_interaction_color_madness"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_curio_interaction_color_madness"><![CDATA[]]></entry>
+
+	
+		<!-- Refracted: Trap --> 
+    <entry id="seditionist+str_comment_trap_triggered_color_madness"><![CDATA[]]></entry>
+    <entry id="seditionist+str_comment_trap_triggered_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Block Meal --> 
+    <entry id="seditionist+str_block_camping_meal_color_madness"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_camping_meal_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Heart Attack --> 
+    <entry id="seditionist+str_heart_attack_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Block Camp Target --> 
+    <entry id="seditionist+str_block_camping_skill_target_color_madness"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_camping_skill_target_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: block Camp Performer --> 
+    <entry id="seditionist+str_block_camping_skill_performer_color_madness"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_camping_skill_performer_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Block Heal --> 
+    <entry id="seditionist+str_block_heal_color_madness"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_heal_color_madness"><![CDATA[]]></entry>
+
+	
+		<!-- Refracted: Block Buff --> 
+    <entry id="seditionist+str_block_buff_color_madness"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_buff_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Block Effect --> 
+    <entry id="seditionist+str_block_effect_color_madness"><![CDATA[]]></entry>
+	<entry id="seditionist+str_block_effect_color_madness"><![CDATA[]]></entry>
+
+		<!-- Refracted: Consume Item --> 
+    <entry id="seditionist+str_consume_item_color_madness"><![CDATA[]]></entry>
+    <entry id="seditionist+str_consume_item_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Roster List --> 
+    <entry id="seditionist+str_roster_list_color_madness_bark"><![CDATA[]]></entry>
+    <entry id="seditionist+str_roster_list_color_madness_bark"><![CDATA[]]></entry>
+ 
+	<!-- Curio Strings -->
+
+	<entry id="seditionist+trigger_curio_quirk_compulsive"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_quirk_compulsive"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_quirk_compulsive"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_quirk_curious"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_quirk_curious"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_quirk_curious"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_quirk_dark_temptation"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_quirk_guilty_conscience"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_quirk_kleptomaniac"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_quirk_bloodthirsty"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_quirk_hieromania"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_quirk_ablutomania"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_quirk_dacnomania"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_quirk_egomania"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_quirk_hylomania"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_quirk_sitiomania"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_quirk_plutomania"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_quirk_necromania"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_quirk_dipsomania"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_quirk_paranormania"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_quirk_hagiomania"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_quirk_demonomania"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_quirk_tapeworm"><![CDATA[]]></entry>
+	
+    <entry id="seditionist+str_keep_loot_string"><![CDATA[]]></entry>
+
+    <entry id="seditionist+trigger_curio_affliction_fearful"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_affliction_paranoid"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_affliction_masochistic"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_affliction_abusive"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_affliction_selfish"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_affliction_depressed"><![CDATA[]]></entry>
+    <entry id="seditionist+trigger_curio_affliction_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Virtuous -->
+	<entry id="seditionist+str_block_effect_vigorous"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_effect_powerful"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_effect_focused"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_effect_courageous"><![CDATA[]]></entry>
+    <entry id="seditionist+str_block_effect_stalwart"><![CDATA[]]></entry>
+	
+	<!-- Courageous -->
+
+    <entry id="seditionist+str_virtued_courageous"><![CDATA[]]></entry>
+    <entry id="seditionist+str_virtued_courageous"><![CDATA[]]></entry>
+	<entry id="seditionist+str_virtued_courageous"><![CDATA[]]></entry>
+ 
+	<!-- Courageous: heal party -->
+ 
+    <entry id="seditionist+str_stress_heal_party_courageous"><![CDATA[]]></entry>
+    <entry id="seditionist+str_stress_heal_party_courageous"><![CDATA[]]></entry>
+	<entry id="seditionist+str_stress_heal_party_courageous"><![CDATA[]]></entry>
+	<entry id="seditionist+str_stress_heal_party_courageous"><![CDATA[]]></entry>
+	<entry id="seditionist+str_stress_heal_party_courageous"><![CDATA[]]></entry>
+ 
+	<!-- Focused -->
+    <entry id="seditionist+str_virtued_focused"><![CDATA[]]></entry>
+    <entry id="seditionist+str_virtued_focused"><![CDATA[]]></entry>
+	<entry id="seditionist+str_virtued_focused"><![CDATA[]]></entry>
+ 
+ 
+	<!-- Focused: buff other -->
+
+    <entry id="seditionist+str_buff_random_party_member_focused"><![CDATA[]]></entry>
+	<entry id="seditionist+str_buff_random_party_member_focused"><![CDATA[]]></entry>
+    <entry id="seditionist+str_buff_random_party_member_focused"><![CDATA[]]></entry>
+	<entry id="seditionist+str_buff_random_party_member_focused"><![CDATA[]]></entry>
+    <entry id="seditionist+str_buff_random_party_member_focused"><![CDATA[]]></entry>
+ 
+	<!-- Powerful -->
+ 
+    <entry id="seditionist+str_virtued_powerful"><![CDATA[]]></entry>
+	<entry id="seditionist+str_virtued_powerful"><![CDATA[]]></entry>
+    <entry id="seditionist+str_virtued_powerful"><![CDATA[]]></entry>
+ 
+	<!-- Powerful: buff party -->
+ 
+    <entry id="seditionist+str_buff_party_powerful"><![CDATA[]]></entry>
+	<entry id="seditionist+str_buff_party_powerful"><![CDATA[]]></entry>
+    <entry id="seditionist+str_buff_party_powerful"><![CDATA[]]></entry>
+	<entry id="seditionist+str_buff_party_powerful"><![CDATA[]]></entry>
+	<entry id="seditionist+str_buff_party_powerful"><![CDATA[]]></entry>
+ 
+	<!-- Stalwart -->
+ 
+    <entry id="seditionist+str_virtued_stalwart"><![CDATA[]]></entry>
+    <entry id="seditionist+str_virtued_stalwart"><![CDATA[]]></entry>
+	<entry id="seditionist+str_virtued_stalwart"><![CDATA[]]></entry>
+ 
+	<!-- stalwart: Heal Self -->
+ 
+    <entry id="seditionist+str_stress_heal_self_stalwart"><![CDATA[]]></entry>
+    <entry id="seditionist+str_stress_heal_self_stalwart"><![CDATA[]]></entry>
+	<entry id="seditionist+str_stress_heal_self_stalwart"><![CDATA[]]></entry>
+	<entry id="seditionist+str_stress_heal_self_stalwart"><![CDATA[]]></entry>
+	<entry id="seditionist+str_stress_heal_self_stalwart"><![CDATA[]]></entry>
+ 
+	<!-- Vigorous -->
+ 
+    <entry id="seditionist+str_virtued_vigorous"><![CDATA[]]></entry>
+    <entry id="seditionist+str_virtued_vigorous"><![CDATA[]]></entry>
+	<entry id="seditionist+str_virtued_vigorous"><![CDATA[]]></entry>
+ 
+	<!-- Vigorous: Heal Self -->
+ 
+    <entry id="seditionist+str_heal_self_vigorous"><![CDATA[]]></entry>
+    <entry id="seditionist+str_heal_self_vigorous"><![CDATA[]]></entry>
+	<entry id="seditionist+str_heal_self_vigorous"><![CDATA[]]></entry>
+	<entry id="seditionist+str_heal_self_vigorous"><![CDATA[]]></entry>
+	<entry id="seditionist+str_heal_self_vigorous"><![CDATA[]]></entry>
+ 
+ 
+ 
+	<!-- Subtitles -->
+	<entry id="str_vo_town_recruit_seditionist_0"><![CDATA[]]></entry>
+	<entry id="str_vo_town_event_bonus_recruit_seditionist"><![CDATA[]]></entry>
+	<entry id="str_vo_town_idle_resolve_level_seditionist"><![CDATA[]]></entry>
+ 
+	<!-- Crimson Court Stuff -->
+ 
+	<!-- Prisoner -->
+	<entry id="seditionist+str_prisoner_help_me"><![CDATA[]]></entry>
+    <entry id="seditionist+str_prisoner_rescue_thanks"><![CDATA[]]></entry>
+ 
+ 
+	<!-- Monster Attacks -->
+ 
+
+
+	</language>
+
+</root>

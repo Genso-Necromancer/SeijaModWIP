@@ -1,0 +1,27 @@
+
+seditionist.sprite.afflicted.png
+size: 1761,1190
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 2, 2
+  size: 1338, 1186
+  orig: 1338, 1186
+  offset: 0, 0
+  index: -1
+seija gremlin
+  rotate: false
+  xy: 1342, 748
+  size: 417, 440
+  orig: 417, 440
+  offset: 0, 0
+  index: -1
+stress
+  rotate: false
+  xy: 1342, 425
+  size: 377, 321
+  orig: 377, 321
+  offset: 0, 0
+  index: -1

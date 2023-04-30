@@ -1,0 +1,39 @@
+{
+   "buffs":
+   [
+      {
+         "id" : "sdt_Rip_Bleed_Give",
+         "stat_type" : "riposte",
+         "stat_sub_type" : "sdtBleedGive",
+         "amount" : 1,
+		 "duration" : 3,
+         "remove_if_not_active" : false,
+         "rule_type" : "always",
+         "is_false_rule" : false,
+         "rule_data" : {
+            "float" : 1,
+            "string" : ""
+         },
+		 "has_description": true
+	  },
+	  {
+         "id" : "sdt_Rip_Poison_Give",
+         "stat_type" : "riposte",
+         "stat_sub_type" : "sdtPoisonGive",
+         "amount" : 1,
+		 "duration" : 3,
+         "remove_if_not_active" : false,
+         "rule_type" : "always",
+         "is_false_rule" : false,
+         "rule_data" : {
+            "float" : 1,
+            "string" : ""
+         },
+		 "has_description": true
+	  }
+      
+	  
+	  
+	  
+   ]
+}  

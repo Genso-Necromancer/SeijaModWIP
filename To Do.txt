@@ -1,0 +1,5 @@
+Seija To-Do:
+
+Overturning Heaven:
+Test Riposte to make sure DoTs are transfered on riposte proc.
+Create a tool tip explaining that the Riposte can do that if it works.

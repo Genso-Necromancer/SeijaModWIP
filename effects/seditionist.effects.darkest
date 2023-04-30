@@ -1,0 +1,74 @@
+//Seditionist On-Crit Effect
+effect: .name "SDT On-Crit" .target "performer" .chance 100% .duration 2 .buff_source_type bsrc_crit .buff_ids "SDT_virtue_5" .on_hit true .on_miss false .queue false .apply_once true
+
+//airBrave
+effect: .name "sdtMarkBuff1" .target "performer" .skill_instant true .buff_ids "sdt_Mark_Buff_1H" "sdt_Mark_Buff_1L" .on_hit true .on_miss false
+effect: .name "sdtMarkBuff2" .target "performer" .skill_instant true .buff_ids "sdt_Mark_Buff_2H" "sdt_Mark_Buff_2L" .on_hit true .on_miss false
+effect: .name "sdtMarkBuff3" .target "performer" .skill_instant true .buff_ids "sdt_Mark_Buff_3H" "sdt_Mark_Buff_3L" .on_hit true .on_miss false
+effect: .name "sdtMarkBuff4" .target "performer" .skill_instant true .buff_ids "sdt_Mark_Buff_4H" "sdt_Mark_Buff_4L" .on_hit true .on_miss false
+effect: .name "sdtMarkBuff5" .target "performer" .skill_instant true .buff_ids "sdt_Mark_Buff_5H" "sdt_Mark_Buff_5L" .on_hit true .on_miss false
+
+//thisSideDown
+effect: .name "sdtAoEBleed1" .target "target" .chance 100% .dotBleed 2 .duration 3 .on_hit true .on_miss false .can_apply_on_death true
+effect: .name "sdtAoEBleed2" .target "target" .chance 110% .dotBleed 2 .duration 3 .on_hit true .on_miss false .can_apply_on_death true
+effect: .name "sdtAoEBleed3" .target "target" .chance 120% .dotBleed 3 .duration 3 .on_hit true .on_miss false .can_apply_on_death true
+effect: .name "sdtAoEBleed4" .target "target" .chance 130% .dotBleed 3 .duration 3 .on_hit true .on_miss false .can_apply_on_death true
+effect: .name "sdtAoEBleed5" .target "target" .chance 140% .dotBleed 4 .duration 3 .on_hit true .on_miss false .can_apply_on_death true
+
+//lookingGlass
+effect: .name "sdtLGSelfMark" .target "performer" .chance 100% .duration 4 .tag 1 .on_hit true .on_miss false
+effect: .name "sdtLGMark" .target "target" .chance 100% .duration 4 .tag 1 .on_hit true .on_miss false
+
+effect: .name "sdtLGSelfDebuff1" .target "performer" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff1"
+effect: .name "sdtLGSelfDebuff2" .target "performer" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff2"
+effect: .name "sdtLGSelfDebuff3" .target "performer" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff3"
+effect: .name "sdtLGSelfDebuff4" .target "performer" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff4"
+effect: .name "sdtLGSelfDebuff5" .target "performer" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff5"
+
+effect: .name "sdtLGDebuff1" .target "target" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff1"
+effect: .name "sdtLGDebuff2" .target "target" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff2"
+effect: .name "sdtLGDebuff3" .target "target" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff3"
+effect: .name "sdtLGDebuff4" .target "target" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff4"
+effect: .name "sdtLGDebuff5" .target "target" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff5"
+
+//overTurningHeaven
+effect: .name "sdtBleedGive" .target "target" .swap_source_and_target true .chance 100% .steal_buff_stat_type hp_dot_bleed .on_hit true .on_miss false .queue true
+effect: .name "sdtPoisonGive" .target "target" .swap_source_and_target true .chance 100% .steal_buff_stat_type hp_dot_poison .on_hit true .on_miss false .queue true
+
+effect: .name "sdtRiposte1" .target "performer" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .damage_low_multiply -40% .damage_high_multiply -40% .duration 3 .buff_ids "sdt_Rip_Bleed_Give" "sdt_Rip_Poison_Give" .on_hit true .on_miss true .has_description true 
+effect: .name "sdtRiposte2" .target "performer" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .attack_rating_add 5% .damage_low_multiply -35% .damage_high_multiply -35% .duration 3 .buff_ids "sdt_Rip_Bleed_Give" "sdt_Rip_Poison_Give" .on_hit true .on_miss true .has_description true 
+effect: .name "sdtRiposte3" .target "performer" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .attack_rating_add 10% .damage_low_multiply -30% .damage_high_multiply -30% .duration 3 .buff_ids "sdt_Rip_Bleed_Give" "sdt_Rip_Poison_Give" .on_hit true .on_miss true .has_description true 
+effect: .name "sdtRiposte4" .target "performer" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .attack_rating_add 15% .damage_low_multiply -25% .damage_high_multiply -25% .duration 3 .buff_ids "sdt_Rip_Bleed_Give" "sdt_Rip_Poison_Give" .on_hit true .on_miss true .has_description true 
+effect: .name "sdtRiposte5" .target "performer" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .attack_rating_add 20% .damage_low_multiply -20% .damage_high_multiply -20% .duration 3 .buff_ids "sdt_Rip_Bleed_Give" "sdt_Rip_Poison_Give" .on_hit true .on_miss true .has_description true 
+
+//turnAbout
+effect: .name "sdtPartyClearMark" .target "performer_group_other" .chance 100% .untag 1 .on_hit true .on_miss false .apply_once true
+
+effect: .name "sdtTurnAboutAccDebuff1" .target "target" .chance 100% .duration 3 .buff_ids "sdt_TA_ACC_Debuff_1" .on_hit true .on_miss false .apply_once true
+effect: .name "sdtTurnAboutAccDebuff2" .target "target" .chance 110% .duration 3 .buff_ids "sdt_TA_ACC_Debuff_2" .on_hit true .on_miss false .apply_once true
+effect: .name "sdtTurnAboutAccDebuff3" .target "target" .chance 120% .duration 3 .buff_ids "sdt_TA_ACC_Debuff_3" .on_hit true .on_miss false .apply_once true
+effect: .name "sdtTurnAboutAccDebuff4" .target "target" .chance 130% .duration 3 .buff_ids "sdt_TA_ACC_Debuff_4" .on_hit true .on_miss false .apply_once true
+effect: .name "sdtTurnAboutAccDebuff5" .target "target" .chance 140% .duration 3 .buff_ids "sdt_TA_ACC_Debuff_5" .on_hit true .on_miss false .apply_once true
+
+//dreambow
+
+//reverseHeirarchy
+effect: .name "sdtPartyFlip" .target "target" .chance 100% .pull 3 .on_hit true .on_miss false .can_apply_on_death true .has_description false
+
+effect: .name "sdtPartyDodge1" .target "target" .chance 100% .duration 3 .buff_ids "sdt_RH_Dodge_Buff_1" .on_hit true .on_miss false .apply_once true
+effect: .name "sdtPartyDodge2" .target "target" .chance 100% .duration 3 .buff_ids "sdt_RH_Dodge_Buff_2" .on_hit true .on_miss false .apply_once true
+effect: .name "sdtPartyDodge3" .target "target" .chance 100% .duration 3 .buff_ids "sdt_RH_Dodge_Buff_3" .on_hit true .on_miss false .apply_once true
+effect: .name "sdtPartyDodge4" .target "target" .chance 100% .duration 3 .buff_ids "sdt_RH_Dodge_Buff_4" .on_hit true .on_miss false .apply_once true
+effect: .name "sdtPartyDodge5" .target "target" .chance 100% .duration 3 .buff_ids "sdt_RH_Dodge_Buff_5" .on_hit true .on_miss false .apply_once true
+//TTs
+effect: .name "RH Party Flip TT" .target "performer" .skill_instant true .buff_ids "RH_Flip_TT" .on_hit false .on_miss false .apply_once true
+
+
+//dream bow
+
+
+//TTs
+effect: .name "DB Undone TT" .target "performer" .skill_instant true .buff_ids "DB_Undone_TT" .on_hit false .on_miss false .apply_once true
+
+//Shared
+

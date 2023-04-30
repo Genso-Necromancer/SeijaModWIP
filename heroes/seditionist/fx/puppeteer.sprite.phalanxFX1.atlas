@@ -1,0 +1,13 @@
+
+puppeteer.sprite.phalanxFX1.png
+size: 32,38
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+phalanx
+  rotate: false
+  xy: 2, 2
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1

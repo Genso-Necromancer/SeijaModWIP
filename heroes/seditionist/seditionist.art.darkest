@@ -1,0 +1,28 @@
+commonfx: .deathfx death_touhou
+
+weapon: .name "seditionist_weapon_0" .icon "eqp_weapon_0.png"
+weapon: .name "seditionist_weapon_1" .icon "eqp_weapon_1.png"
+weapon: .name "seditionist_weapon_2" .icon "eqp_weapon_2.png"
+weapon: .name "seditionist_weapon_3" .icon "eqp_weapon_3.png"
+weapon: .name "seditionist_weapon_4" .icon "eqp_weapon_4.png"
+
+armour: .name "seditionist_armour_0" .icon "eqp_armour_0.png"
+armour: .name "seditionist_armour_1" .icon "eqp_armour_1.png"
+armour: .name "seditionist_armour_2" .icon "eqp_armour_2.png"
+armour: .name "seditionist_armour_3" .icon "eqp_armour_3.png"
+armour: .name "seditionist_armour_4" .icon "eqp_armour_4.png"
+
+combat_skill: .id "airBrave" .icon "one" .anim "SDTplaceHolder"
+combat_skill: .id "thisSideDown" .icon "two" .anim "SDTplaceHolder"
+combat_skill: .id "lookingGlass" .icon "three" .anim "SDTplaceHolder"
+combat_skill: .id "overTurningHeaven" .icon "four" .anim "SDTplaceHolder"
+combat_skill: .id "turnAbout" .icon "five" .anim "SDTplaceHolder"
+combat_skill: .id "dreamBow" .icon "six" .anim "SDTplaceHolder"
+combat_skill: .id "reverseHeirarchy" .icon "seven" .anim "SDTplaceHolder"
+
+combat_move_skill: .id "move" .icon "generic_move" .anim "idle"
+riposte_skill: .id "riposte1" .anim "SDTplaceHolder"
+
+act_out_display: .attack_friendly_anim "SDTplaceHolder" .attack_friendly_sfx "SDTplaceHolder"
+
+
