@@ -64,6 +64,8 @@
 			<!-- Skill Mechanics -->
 			<entry id="buff_stat_tooltip_upgrade_discount_rhFlipTT"><![CDATA[{colour_start|move}Reverse{colour_end} order of Party]]></entry>
 			<entry id="buff_stat_tooltip_upgrade_discount_rhUndoneTT"><![CDATA[I'm not a finished skill!!!!!!!!!]]></entry>
+			<entry id="buff_stat_tooltip_upgrade_discount_ohRiposteTT"><![CDATA[{colour_start|debuff}Riposte{colour_end}: Transfer {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end} on hit {colour_start|skill_unselectable}3 rounds (ACC/DMG scales with Skill Ranks){colour_end}]]></entry>
+			
 
 			
 			

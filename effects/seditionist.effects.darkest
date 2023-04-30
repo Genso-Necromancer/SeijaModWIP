@@ -41,6 +41,9 @@ effect: .name "sdtRiposte3" .target "performer" .chance 100% .riposte 1 .riposte
 effect: .name "sdtRiposte4" .target "performer" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .attack_rating_add 15% .damage_low_multiply -25% .damage_high_multiply -25% .duration 3 .buff_ids "sdt_Rip_Bleed_Give" "sdt_Rip_Poison_Give" .on_hit true .on_miss true .has_description true 
 effect: .name "sdtRiposte5" .target "performer" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .attack_rating_add 20% .damage_low_multiply -20% .damage_high_multiply -20% .duration 3 .buff_ids "sdt_Rip_Bleed_Give" "sdt_Rip_Poison_Give" .on_hit true .on_miss true .has_description true 
 
+//TTs(Working Tool Tips)
+effect: .name "sdtRiposteTT1" .target "performer" .chance 100% .buff_source_type bsrc_notspecified .buff_ids "OH_Riposte_TT" .on_hit false .on_miss false .has_description true
+
 //turnAbout
 effect: .name "sdtPartyClearMark" .target "performer_group_other" .chance 100% .untag 1 .on_hit true .on_miss false .apply_once true
 
