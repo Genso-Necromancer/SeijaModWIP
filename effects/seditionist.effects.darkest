@@ -19,17 +19,17 @@ effect: .name "sdtAoEBleed5" .target "target" .chance 140% .dotBleed 4 .duration
 effect: .name "sdtLGSelfMark" .target "performer" .chance 100% .duration 4 .tag 1 .on_hit true .on_miss false
 effect: .name "sdtLGMark" .target "target" .chance 100% .duration 4 .tag 1 .on_hit true .on_miss false
 
-effect: .name "sdtLGSelfDebuff1" .target "performer" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff1"
-effect: .name "sdtLGSelfDebuff2" .target "performer" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff2"
-effect: .name "sdtLGSelfDebuff3" .target "performer" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff3"
-effect: .name "sdtLGSelfDebuff4" .target "performer" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff4"
-effect: .name "sdtLGSelfDebuff5" .target "performer" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff5"
+effect: .name "sdtLGSelfDebuff1" .target "performer" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff1" .on_hit true .on_miss false
+effect: .name "sdtLGSelfDebuff2" .target "performer" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff2" .on_hit true .on_miss false
+effect: .name "sdtLGSelfDebuff3" .target "performer" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff3" .on_hit true .on_miss false
+effect: .name "sdtLGSelfDebuff4" .target "performer" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff4" .on_hit true .on_miss false
+effect: .name "sdtLGSelfDebuff5" .target "performer" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff5" .on_hit true .on_miss false
 
-effect: .name "sdtLGDebuff1" .target "target" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff1"
-effect: .name "sdtLGDebuff2" .target "target" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff2"
-effect: .name "sdtLGDebuff3" .target "target" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff3"
-effect: .name "sdtLGDebuff4" .target "target" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff4"
-effect: .name "sdtLGDebuff5" .target "target" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff5"
+effect: .name "sdtLGDebuff1" .target "target" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff1" .on_hit true .on_miss false
+effect: .name "sdtLGDebuff2" .target "target" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff2" .on_hit true .on_miss false
+effect: .name "sdtLGDebuff3" .target "target" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff3" .on_hit true .on_miss false
+effect: .name "sdtLGDebuff4" .target "target" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff4" .on_hit true .on_miss false
+effect: .name "sdtLGDebuff5" .target "target" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff5" .on_hit true .on_miss false
 
 //overTurningHeaven
 effect: .name "sdtBleedGive" .target "target" .swap_source_and_target true .chance 100% .steal_buff_stat_type hp_dot_bleed .on_hit true .on_miss false .queue true
