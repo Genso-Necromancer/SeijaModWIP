@@ -32,14 +32,16 @@ effect: .name "sdtLGDebuff4" .target "target" .chance 999% .duration 3 .buff_ids
 effect: .name "sdtLGDebuff5" .target "target" .chance 999% .duration 3 .buff_ids "sdt_LG_DMGRec_Debuff5" .on_hit true .on_miss false
 
 //overTurningHeaven
-effect: .name "sdtBleedGive" .target "target" .swap_source_and_target true .chance 100% .steal_buff_stat_type hp_dot_bleed .on_hit true .on_miss false .queue true
-effect: .name "sdtPoisonGive" .target "target" .swap_source_and_target true .chance 100% .steal_buff_stat_type hp_dot_poison .on_hit true .on_miss false .queue true
+//effect: .name "sdtBleedGive" .target "target" .swap_source_and_target true .chance 100% .steal_buff_stat_type hp_dot_bleed .on_hit true .on_miss false .queue true
+//effect: .name "sdtPoisonGive" .target "target" .swap_source_and_target true .chance 100% .steal_buff_stat_type hp_dot_poison .on_hit true .on_miss false .queue true
+effect: .name "sdtDotGive" .target "target" .swap_source_and_target true .chance 100% .steal_buff_stat_type hp_dot_poison .steal_buff_stat_type hp_dot_bleed .on_hit true .on_miss false .queue true
 
-effect: .name "sdtRiposte1" .target "performer" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .damage_low_multiply -40% .damage_high_multiply -40% .duration 3 .buff_ids "sdt_Rip_Bleed_Give" "sdt_Rip_Poison_Give" .on_hit true .on_miss true .has_description true 
-effect: .name "sdtRiposte2" .target "performer" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .attack_rating_add 5% .damage_low_multiply -35% .damage_high_multiply -35% .duration 3 .buff_ids "sdt_Rip_Bleed_Give" "sdt_Rip_Poison_Give" .on_hit true .on_miss true .has_description true 
-effect: .name "sdtRiposte3" .target "performer" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .attack_rating_add 10% .damage_low_multiply -30% .damage_high_multiply -30% .duration 3 .buff_ids "sdt_Rip_Bleed_Give" "sdt_Rip_Poison_Give" .on_hit true .on_miss true .has_description true 
-effect: .name "sdtRiposte4" .target "performer" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .attack_rating_add 15% .damage_low_multiply -25% .damage_high_multiply -25% .duration 3 .buff_ids "sdt_Rip_Bleed_Give" "sdt_Rip_Poison_Give" .on_hit true .on_miss true .has_description true 
-effect: .name "sdtRiposte5" .target "performer" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .attack_rating_add 20% .damage_low_multiply -20% .damage_high_multiply -20% .duration 3 .buff_ids "sdt_Rip_Bleed_Give" "sdt_Rip_Poison_Give" .on_hit true .on_miss true .has_description true 
+
+effect: .name "sdtRiposte1" .target "performer" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .damage_low_multiply -40% .damage_high_multiply -40% .duration 3 .riposte_effect "sdtDotGive" .on_hit true .on_miss true .has_description true 
+effect: .name "sdtRiposte2" .target "performer" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .attack_rating_add 5% .damage_low_multiply -35% .damage_high_multiply -35% .duration 3 .riposte_effect "sdtDotGive" .on_hit true .on_miss true .has_description true 
+effect: .name "sdtRiposte3" .target "performer" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .attack_rating_add 10% .damage_low_multiply -30% .damage_high_multiply -30% .duration 3 .riposte_effect "sdtDotGive" .on_hit true .on_miss true .has_description true 
+effect: .name "sdtRiposte4" .target "performer" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .attack_rating_add 15% .damage_low_multiply -25% .damage_high_multiply -25% .duration 3 .riposte_effect "sdtDotGive" .on_hit true .on_miss true .has_description true 
+effect: .name "sdtRiposte5" .target "performer" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .attack_rating_add 20% .damage_low_multiply -20% .damage_high_multiply -20% .duration 3 .riposte_effect "sdtDotGive" .on_hit true .on_miss true .has_description true 
 
 //TTs(Working Tool Tips)
 effect: .name "sdtRiposteTT1" .target "performer" .chance 100% .buff_source_type bsrc_notspecified .buff_ids "OH_Riposte_TT" .on_hit false .on_miss false .has_description true
